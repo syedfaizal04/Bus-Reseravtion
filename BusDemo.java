@@ -3,7 +3,7 @@ package bus_Resv;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BusDemo {
+public class BusReservationSystem {
 
 	public static void main(String[] args) {
 
@@ -50,3 +50,4 @@ public class BusDemo {
 	}
 
 }
+
